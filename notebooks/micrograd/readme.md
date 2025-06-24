@@ -1,1 +1,1 @@
-creating folder
+> Micrograd from scratch and implementation.
