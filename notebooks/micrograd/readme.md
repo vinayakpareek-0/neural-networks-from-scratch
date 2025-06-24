@@ -1,1 +1,1 @@
-> Micrograd from scratch and implementation.
+> Micrograd code from scratch and implementation notes.
