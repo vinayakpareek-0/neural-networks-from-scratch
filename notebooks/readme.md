@@ -1,1 +1,1 @@
-> Notebooks and implementation notebook throughout the course and learnings
+> Practicing and Implementation notebook throughout the course and while learning
